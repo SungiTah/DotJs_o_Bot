@@ -51,4 +51,4 @@ async def on_message(message):
         await message.channel.send('This is that you want http://youtube.com/fazttech')
         await bot.process_commands(message)
 
-bot.run('MTAxMTI3MzgyMjYzMDA2MDA5Mw.G3X_38.EXJ2KwVuMMmcxW18K4yw3ZGUCqGEda3vVMOBzU')
+bot.run('token')
